@@ -1163,7 +1163,7 @@ unicode = 0062;
 },
 {
 glyphname = c;
-lastChange = "2022-10-11 14:02:24 +0000";
+lastChange = "2022-10-11 14:07:58 +0000";
 layers = (
 {
 layerId = "C6EFB8F5-3E54-4804-BD3F-E61218EDE0CA";
@@ -1181,9 +1181,9 @@ nodes = (
 "443 228 OFFCURVE",
 "446 230 CURVE",
 "459 369 LINE",
-"289 315 LINE",
-"260 411 LINE",
-"298 422 OFFCURVE",
+"372 336 LINE",
+"343 432 LINE",
+"354 443 OFFCURVE",
 "370 445 OFFCURVE",
 "373 445 CURVE",
 "432 505 LINE"
