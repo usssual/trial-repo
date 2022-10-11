@@ -1,13 +1,7 @@
 {
-.appVersion = "1342";
+.appVersion = "3133";
 DisplayStrings = (
-"LAPAK/L_P \012P/R.001 IME/R.001 \012\012\012L/a.ss02 p/a.ss02 k\012Primer\012\012\012\012m/a.ss01 rble\012MA/K.001/E.circled R\012\012\012\012\012\012\012t",
-"",
-"/a.ss01 bero",
-"A/O.001 M",
-abcdefghijklmnopqrstuvwxyz,
-"peram\012per/a.ss01 m",
-peram
+c
 );
 date = "2019-06-23 23:41:04 +0000";
 designer = boyanurd;
@@ -1169,9 +1163,33 @@ unicode = 0062;
 },
 {
 glyphname = c;
+lastChange = "2022-10-11 14:02:24 +0000";
 layers = (
 {
 layerId = "C6EFB8F5-3E54-4804-BD3F-E61218EDE0CA";
+paths = (
+{
+closed = 1;
+nodes = (
+"360 522 OFFCURVE",
+"161 505 OFFCURVE",
+"153 478 CURVE SMOOTH",
+"145 451 OFFCURVE",
+"44 285 OFFCURVE",
+"171 200 CURVE SMOOTH",
+"298 115 OFFCURVE",
+"443 228 OFFCURVE",
+"446 230 CURVE",
+"459 369 LINE",
+"289 315 LINE",
+"260 411 LINE",
+"298 422 OFFCURVE",
+"370 445 OFFCURVE",
+"373 445 CURVE",
+"432 505 LINE"
+);
+}
+);
 width = 600;
 }
 );
@@ -2313,6 +2331,9 @@ a.ss01 = -85;
 };
 };
 unitsPerEm = 1000;
+userData = {
+GSDontShowVersionAlert = 1;
+};
 versionMajor = 1;
 versionMinor = 0;
 }
